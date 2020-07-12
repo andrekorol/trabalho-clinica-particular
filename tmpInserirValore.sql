@@ -38,10 +38,5 @@ insert into anamneseCorporal(nome,Endereço,sexo,bairro,dataFicha,dataNascimento
  ('Eliane Clarice Marina das Neves','Rua Maria Adelaide de Carvalho','F','Centro','06/07/2002','10\/08\/1954','(21) 3874-1216 ','(21) 98887-6552',' ',' ','',' ',' ',' ','  ','   ','  ','  ',' ','  ',' ',' ');
  ('Osvaldo Carlos Anthony Mendes','Travessa Luzia Cruz','M ','Parque Leopoldina','03/04/2018','07\/12\/1999 ','(22) 2770-7743 ','(22) 99860-9751',' ',' ','',' ',' ',' ','  ','   ','  ','  ',' ','  ',' ','');
  ('Malu Vanessa Gabriela Araújo','Rua José Eugênio',' F','São Cristóvão','09/08/2003','26\/07\/1978','(21) 3792-7948','(21) 99150-7818',' ',' ','',' ',' ',' ','  ','  ','  ','  ',' ',' ',' ','  ');
-
-
-
-
-
 ------------------------------------------------------------------------------------------------
 Falta colocar o final dessa Tabela CEP até idhistorico
