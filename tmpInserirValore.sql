@@ -63,3 +63,4 @@ insert into anamneseCorporal(nome,Endereço,sexo,bairro,dataFicha,dataNascimento
 ------------------------------------------------------------------------------------------------
 Falta colocar o final dessa Tabela CEP até idhistorico
 
+
