@@ -18,9 +18,9 @@ temCicloMenstrualRegular,observacoesCicloMestrual,
 usaAnticoncepiciona,metodoAnticoncepicional,temVarizes,
 graVarizes,temLesoes,tipoDeLesoes,
 hipertensao,epilepisia,temHilepisia,hipotensao,diabetes)
-VALUES(1,1,"apendice"),(0, "dremagem Linfatica" 1 ),("caramarao" ,1, futebol),(1,1,"fastfood"),(1,"cerveja",1),(1,3,1),
-("psiquiatra",1,"acidoHialuronico"),(1,"suplementos,1"),(0,"umAparelho",1),("ferro"),(1,"neoplasias"),(1,"dura5dias",1),
-("prevencao",1," vasinhos"),(1,"Tornozelo e Pé"),(1,0,"doencanoSistemaNervoso"),(1,1);
+VALUES(1,1,"apendice",0, "dremagem Linfatica" 1 ,"caramarao" ,1, futebol,1,1,"fastfood",1,"cerveja",1,1,3,1,
+"psiquiatra",1,"acidoHialuronico",1,"suplementos,1",0,"umAparelho",1,"ferro",1,"neoplasias",1,"dura5dias",1,
+"prevencao",1," vasinhos",1,"Tornozelo e Pé",1,0,"doencanoSistemaNervoso",1,1);
 ###########################################################################################################################
 
 insert into anamneseCorporal(nome,Endereço,sexo,bairro,dataFicha,dataNascimento,FonesRes,FonesComercial,CEP,etinia,profissao,email,motivoDaVisita,nomeEmergencia,telefoneEmergencia,nomeMedico,telefoneMedico,convenioMedico,carterinhaConvenio,hosptital,medico_idmedico,historico_idhistorico) values ('Vicente Raimundo Gustavo da Rocha','Rua Ipê-branco','M','Dunas do Peró','05/02/2000','22\/11\/1959','(22) 2731-8445','(22) 99971-5982',' ',' ','',' ',' ',' ','  ','   ','  ','  ',' ','  ',' ','');
