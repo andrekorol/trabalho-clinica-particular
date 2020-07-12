@@ -40,3 +40,4 @@ insert into anamneseCorporal(nome,Endereço,sexo,bairro,dataFicha,dataNascimento
  ('Malu Vanessa Gabriela Araújo','Rua José Eugênio',' F','São Cristóvão','09/08/2003','26\/07\/1978','(21) 3792-7948','(21) 99150-7818',' ',' ','',' ',' ',' ','  ','  ','  ','  ',' ',' ',' ','  ');
 ------------------------------------------------------------------------------------------------
 Falta colocar o final dessa Tabela CEP até idhistorico
+
